@@ -27,14 +27,12 @@ Thumbnail image idea (text + visual AI prompt)
 
 Everything was designed with a step-by-step, beginner-first mindset, using no-code tools.
 
-| ✅ Deliverable                     | Description                                                                  | File Path                                                |
-| --------------------------------- | ---------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 📄 **Prompt Chain Document**      | Full structured prompt workflow used to generate script, titles, and visuals | prompt_chain_document.md|
-| 📝 **YouTube Script**             | Full YouTube video script (800–1500 words) for InVideo generation            |  
-Youtube_Script_.md |
-| 🎥 **YouTube-Ready Video Script** | Script formatted specifically for InVideo or any AI video tool               |Youtube_ready_invideo.md |
-| 🎯 **Thumbnail Concept**          |- Final thumbnail idea with text elements, layout, and design direction        | Thumb_Nail_Concept.md      |
-                                     | 🖼️ **Thumbnail Image** - AI-generated image prompt or final design preview                            | Prompt_Chain_Thumb_Nail_Image.jpg|
+| ✅ Deliverable                       | Description                                                                              | File Link                                                                                                                                   |
+| ----------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 📄 **Prompt Chain Document**        | Full structured prompt workflow used to generate the project outputs                     | [prompt\_chain\_document.md](./prompt_chain_document.md)                                                                                    |
+| 📝 **YouTube Script**               | Complete video script used for content creation                                          | [Youtube\_Script\_.md](./Youtube_Script_.md)                                                                                                |
+| 🎥 **YouTube-Ready InVideo Script** | Script formatted specifically for AI tools like InVideo                                  | [Youtube\_ready\_invideo.md](./Youtube_ready_invideo.md)                                                                                    |
+| 🖼️ **Thumbnail Concept & Image**   | Includes both the conceptual breakdown and the actual thumbnail image generated using AI | 👉 [Thumb\_Nail\_Concept.md](./Thumb_Nail_Concept.md) <br> 🖼️ [Prompt\_Chain\_Thumb\_Nail\_Image.jpg](./Prompt_Chain_Thumb_Nail_Image.jpg) |
 
 
 ✨ Tools & Platforms Used
