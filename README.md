@@ -1,52 +1,42 @@
-💸 How to Make Money with AI as a Beginner (Step-by-Step)
-A complete YouTube content package powered by Prompt Engineering & AI Tools
+# 💸 FUTURE_PE_01 – How to Make Money with AI as a Beginner (Step-by-Step)
 
-This project showcases how Prompt Engineering can be leveraged to create an end-to-end YouTube video workflow — from idea to execution — tailored for beginners interested in using AI to generate income.
+This project showcases how prompt engineering can be used to create a complete YouTube content package aimed at beginners looking to earn with AI. It combines finance, tutorials, and entrepreneurship into a beginner-friendly and viral-ready format.
 
-🔍 Genres: Finance | Tutorials | Entrepreneurship
-🎯 Goal: Beginner-friendly, practical, and optimized for virality
+Using AI tools, I generated everything from catchy titles and scripts to thumbnails and video formats — all structured through a prompt chain.
 
-📦 Project Highlights
-Follow this structured process to generate a complete YouTube content package using AI tools:
+---
 
-🎯 Pick one topic from the provided list
+## 🚀 What You’ll Do
 
-✍️ Create a prompt chain to generate:
+- Pick a topic from the list provided  
+- Create a **prompt chain** to generate:
+  - Catchy titles  
+  - Full video script  
+  - Thumbnail image idea (text + visual AI prompt)  
+- Generate thumbnail image using **DALL·E**, **Midjourney**, or Canva *(optional)*  
+- Use a free tool like **InVideo**, **Pictory**, or **Canva** to turn the script into a video  
+- Document everything in a clean format (Google Docs / Notion / GitHub)  
 
-Catchy titles
+---
 
-Full video script
+## 🧰 Tools Used
 
-Thumbnail image idea (text + visual AI prompt)
+- **ChatGPT** – Prompt Engineering  
+- **InVideo AI** – Video Creation  
+- **Canva / DALL·E** – Thumbnail Design  
+- **GitHub** – Documentation & Organization  
 
-🖼️ Generate thumbnail image using DALL·E, Midjourney, or any AI image generator (optional)
+---
 
-🎞️ Turn your script into a video using free tools like Canva, Pictory, or InVideo
+## 📁 Final Deliverables
 
-🗂️ Document everything in a clean format (Google Docs, Notion, or Markdown)
+- ✅ **[Prompt Chain Document](./prompt_chain_document.md)**  
+- ✅ **[YouTube Script](./Youtube_Script_.md)**  
+- ✅ **[YouTube-ready Video Script (InVideo)](./Youtube_ready_invideo.md)**  
+- ✅ **Thumbnail Concept & Image**  
+  - 📄 [Concept File](./Thumb_Nail_Concept.md)  
+  - 🖼️ [Image File](./Prompt_Chain_Thumb_Nail_Image.jpg)  
 
-Everything was designed with a step-by-step, beginner-first mindset, using no-code tools.
+---
 
-| ✅ Deliverable                       | Description                                                                              | File Link                                                                                                                                   |
-| ----------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📄 **Prompt Chain Document**        | Full structured prompt workflow used to generate the project outputs                     | [prompt\_chain\_document.md](./prompt_chain_document.md)                                                                                    |
-| 📝 **YouTube Script**               | Complete video script used for content creation                                          | [Youtube\_Script\_.md](./Youtube_Script_.md)                                                                                                |
-| 🎥 **YouTube-Ready InVideo Script** | Script formatted specifically for AI tools like InVideo                                  | [Youtube\_ready\_invideo.md](./Youtube_ready_invideo.md)                                                                                    |
-| 🖼️ **Thumbnail Concept & Image**   | Includes both the conceptual breakdown and the actual thumbnail image generated using AI | 👉 [Thumb\_Nail\_Concept.md](./Thumb_Nail_Concept.md) <br> 🖼️ [Prompt\_Chain\_Thumb\_Nail\_Image.jpg](./Prompt_Chain_Thumb_Nail_Image.jpg) |
-
-
-✨ Tools & Platforms Used
-💬 ChatGPT – Prompt Engineering for titles, scripts, and ideation
-
-🎞️ InVideo AI – Script-to-video generation
-
-🎨 Canva AI / DALL·E – Thumbnail image generation and design
-
-🗂️ GitHub – Documentation & Project Organization
-
-📢 Why This Matters
-"AI won’t replace you — but someone using AI might."
-
-This project empowers beginners with a real-world use case of how AI can be used creatively and commercially to start earning online.
-
-Whether you're an aspiring content creator, freelancer, or entrepreneur — this guide shows how to turn AI tools into real income opportunities.
+✅ Clean, simple, and AI-powered — made with ❤️ by **Abhinaya Anjali** for the **Future Interns Fellowship** 🚀
