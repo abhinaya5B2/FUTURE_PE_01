@@ -1,4 +1,6 @@
-📄 Prompt Chain Document – Catchy YouTube Title Generator
+# 📌 Prompt Chain Document
+This document includes all key prompt outputs used during the creation of the YouTube video project **"How to Make Money with AI as a Beginner (Step-by-Step)"**.
+## 🧠 1. Clitchy YouTube Title Generator
 🧠 Topic: How to Make Money with AI as a Beginner (Step-by-Step)
 🎥 Genre: Finance / Tutorials / Entrepreneurship
 🎯 Goal: Generate viral, high-CTR YouTube titles that appeal to beginners in the AI and money-making niche.
@@ -56,3 +58,18 @@ Create 5 listicle-style or how-to titles with a step-by-step or numbered format.
 “Step-by-Step: How Beginners Earn with AI”
 
 “Top 5 AI Side Hustles for 2025”
+
+
+## ✍️ 2. Full Video Script
+
+<!-- Paste contents of full_video_script.md here -->
+
+*(Paste actual content from full_video_script.md)*
+
+---
+
+## 🎨 3. Thumbnail image idea (text + visual AI prompt)
+
+<!-- Paste contents of thumnail_image_idea.md here -->
+
+*(Paste actual content from thumnail_image_idea.md)*
