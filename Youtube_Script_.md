@@ -1,4 +1,4 @@
-Prompt Chain Document – Full YouTube Script Generator
+📌 Youtube Script:
 Topic: How to Make Money with AI as a Beginner (Step‑by‑Step)
 Genre: Finance / Tutorials / Entrepreneurship
 Format: 800–1500‑word full YouTube video script
